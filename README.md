@@ -1,4 +1,4 @@
-# Keshab-Budhathoki
+Keshab Budhathoki
 ![logo](https://raw.githubusercontent.com/Keshabbu/Keshab-Budhathoki/main/ai-brain-with-neural-network-inside-gear-and-orbit-rings-machine-learning-symbol-digital-cognition-data-processing-and-automation-system-for-research-and-technology-3d-illustration-png%20(1).png)
 <h1 align="center">Hi 👋, I'm Keeshab Budhathoki</h1>
 <h3 align="center">A passionate Machine Learning and Data Science</h3>
